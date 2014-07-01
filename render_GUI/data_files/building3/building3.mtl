@@ -1,0 +1,11 @@
+newmtl mat1
+	map_Kd d28db0ed.tif
+	
+newmtl mat2
+	map_Kd 8e63f366.tif
+	
+newmtl mat3
+	map_Kd f3fbbe23.tif
+	
+newmtl mat4
+	map_Kd 2a94bcde.tif
